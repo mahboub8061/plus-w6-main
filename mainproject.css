@@ -1,0 +1,31 @@
+.container {
+  margin-top: 100px;
+  width: 500px;
+  padding: 20px;
+  border-radius: 24px;
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.12),
+    0px 1px 1px rgba(0, 0, 0, 0.14), 0px 1px 3px rgba(0, 0, 0, 0.2);
+  background-color: #fcf2e0;
+}
+.current-city {
+  background-color: #e68510;
+  border: none;
+  border-radius: 24px;
+}
+.form-box {
+  border-radius: 24px;
+  background-color: #f2bc57;
+}
+.day,
+.icon,
+.temp {
+  text-align: center;
+}
+.icon {
+  color: #45c7ff;
+  font-size: 24px;
+}
+.title,
+.form {
+  padding-bottom: 10px;
+}
